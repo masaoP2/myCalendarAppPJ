@@ -1,4 +1,4 @@
-# myCalenderAppPJ
+# myCalendarAppPJ
 
 #This is my personal PJ.
 #
