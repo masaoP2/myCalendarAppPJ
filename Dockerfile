@@ -27,4 +27,4 @@ COPY . .
 EXPOSE 8000
 
 # コンテナが起動した時に実行されるコマンドを設定
-CMD ["python", "main.py"]
+#CMD ["python", "main.py"]

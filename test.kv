@@ -1,0 +1,16 @@
+TextWidget:
+
+<TextWidget>:
+
+    BoxLayout:
+        orientation:'vertical'
+        size:root.size
+
+        Label:
+            id:label
+            text:root.text
+
+        Button:
+            id:button
+            text:"Hi"
+            on_press:root.onButtonClick()
